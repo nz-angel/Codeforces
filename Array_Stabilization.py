@@ -16,7 +16,7 @@ else:
         if i <= minimum:
             minimum = i
             idx_min = idx
-        elif i >= maximum:
+        if i >= maximum:
             maximum = i
             idx_max = idx
     if minimum == maximum:
