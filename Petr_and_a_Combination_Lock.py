@@ -1,3 +1,5 @@
+# Result: Accepted
+
 import itertools
 
 

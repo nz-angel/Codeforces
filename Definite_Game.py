@@ -1,3 +1,5 @@
+# Result: accepted
+
 v = int(input())
 
 if v != 2:

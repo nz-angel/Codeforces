@@ -1,3 +1,5 @@
+# Result: Accepted
+
 import string
 
 n_queries = int(input())

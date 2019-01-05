@@ -1,3 +1,4 @@
+# Result: Accepted
 
 def solve(l, w, w1, w2):
     wrd = w1 + w2[-1]

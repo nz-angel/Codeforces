@@ -1,3 +1,5 @@
+# Result: Accepted
+
 def calculate_inestability(ls):
     return max(ls) - min(ls)
 

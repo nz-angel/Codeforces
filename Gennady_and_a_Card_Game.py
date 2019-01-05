@@ -1,3 +1,5 @@
+# Result: Accepted
+
 card = input()
 hand = input().split()
 

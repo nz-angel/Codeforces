@@ -1,3 +1,5 @@
+# Result: accepted
+
 n_queries = int(input())
 res = []
 

@@ -1,3 +1,4 @@
+# Result: accepted
 
 def is_palindrome(w):
     if len(w) % 2 == 0:

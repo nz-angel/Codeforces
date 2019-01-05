@@ -1,3 +1,5 @@
+# Results: Accepted
+
 n_students = int(input())
 skillz = list(map(int, input().split()))
 

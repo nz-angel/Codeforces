@@ -1,3 +1,5 @@
+# Result: Accepted
+
 n = int(input())
 word = input()
 
